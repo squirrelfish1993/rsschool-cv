@@ -27,7 +27,7 @@ Learn and participate in some courses like:
 * Communication skills
 * Stress-resistant
 * No toxicity/Mental Harassment  
-Have some experience in the following progrrams and applications:
+Have some experience in the following programs and applications:
 * photoshop (basic, amateur)
 * vs code(beginner)
 * modern browsers(confident user)

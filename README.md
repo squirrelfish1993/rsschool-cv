@@ -1,2 +1,2 @@
 # rsschool-cv
-My first CV
+https://squirrelfish1993.github.io/rsschool-cv/cv
