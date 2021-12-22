@@ -5,17 +5,17 @@
 * Location: Shadrinsk, Kurgan region
 * Github: squirrelfish1993
 ## About me
-Hello!
-I am 28 y.o.
-My current job is inspector for individuals in an energy company.
-A few months ago i became interested in internet technologies.
-First of all, my inspiration was youtube-video by Yury Dud' about Silicon Valley. It gave me goosebumps all over my body.
-That's triggered me to plunge in it step by step.
-In present time, i trying hard to get essential knowledges and skills in Front-end Development to pursue my goals in
-interesting job with a very nice community, great opportunities to create and evolve and financial stability in the future.
+Hello!  
+I am 28 y.o.  
+My current job is inspector for individuals in an energy company.  
+A few months ago i became interested in internet technologies.  
+First of all, my inspiration was youtube-video by Yury Dud' about Silicon Valley. It gave me goosebumps all over my body.  
+That's triggered me to plunge in it step by step.  
+In present time, i trying hard to get essential knowledges and skills in Front-end Development to pursue my goals in  
+interesting job with a very nice community, great opportunities to create and evolve and financial stability in the future.  
 ## Education
-Ural Federal University,named after the first president of Russia B.N. Yeltsin
-Department: Higher Schools of Economics(unfinished)
+Ural Federal University,named after the first president of Russia B.N. Yeltsin  
+Department: Higher Schools of Economics(unfinished)  
 Learn and participate in some courses like:
 * learnJavascript.ru
 * htmlacademy.ru
@@ -26,11 +26,26 @@ Learn and participate in some courses like:
 * Responsibility
 * Communication skills
 * Stress-resistant
-* No toxicity/Mental Harassment
+* No toxicity/Mental Harassment  
 Have some experience in the following progrrams and applications:
 * photoshop (basic, amateur)
 * vs code(beginner)
 * modern browsers(confident user)
 ## English Level
 B1
-
+## Code Example
+```
+let word = "bottles";
+let count = 99;
+while (count > 0) {
+    console.log(count + " " + word + " of beer on the wall");
+    console.log(count + " " + word + " of beer")
+    console.log("Take one down, pass it around,");
+    count = count - 1;
+    if (count > 0 ) {
+        console.log(count + " " + word + " of beer on the wall");
+    } else {
+        console.log("No more " + word + " of beer on the wall");
+    }
+}
+```
